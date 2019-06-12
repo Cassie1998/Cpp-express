@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1557994272 source:e:\c++\express_system\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"staff.h"
+	"EXP.h"
+	"recipient.h"
+
+1557909987 e:\c++\express_system\staff.h
+	<string.h>
+	"EXP.h"
+
+1557908331 e:\c++\express_system\exp.h
+	<string>
+
+1558011900 source:e:\c++\express_system\staff.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<stdlib.h>
+	"staff.h"
+	"EXP.h"
+
+1557994272 e:\c++\express_system\recipient.h
+	<string>
+	"EXP.h"
+
+1558010839 source:e:\c++\express_system\recipient.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	"recipient.h"
+	"EXP.h"
+
+1558509572 source:e:\c++\express_system1\express_system\recipient.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<typeinfo>
+	"recipient.h"
+	"EXP.h"
+
+1559721639 e:\c++\express_system1\express_system\recipient.h
+	<string>
+	"EXP.h"
+
+1558405417 e:\c++\express_system1\express_system\exp.h
+	<string>
+
+1558405417 source:e:\c++\express_system1\express_system\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"staff.h"
+	"EXP.h"
+	"recipient.h"
+	"Fileop.h"
+	"date.h"
+
+1558405417 e:\c++\express_system1\express_system\staff.h
+	<string.h>
+	"EXP.h"
+	"Fileop.h"
+
+1559702910 source:e:\c++\express_system1\express_system\staff.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	<time.h>
+	"staff.h"
+	"EXP.h"
+	"Fileop.h"
+	"date.h"
+
+1558160829 e:\c++\express_system1\express_system\file.h
+
+1558183567 e:\c++\express_system1\express_system\fileop.h
+	"EXP.h"
+
+1558408101 source:e:\c++\express_system1\express_system\fileop.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<io.h>
+	"staff.h"
+	"EXP.h"
+	"File.h"
+	"date.h"
+
+1558181508 source:e:\c++\express_system1\express_system\date.cpp
+	"date.h"
+
+1523713818 e:\c++\express_system1\express_system\date.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cstdio>
+
